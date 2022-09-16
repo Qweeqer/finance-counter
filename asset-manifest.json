@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/finance-counter/static/css/main.94a8f0b1.css",
-    "main.js": "/finance-counter/static/js/main.0d560de7.js",
+    "main.js": "/finance-counter/static/js/main.75166838.js",
     "static/css/820.20dd7507.chunk.css": "/finance-counter/static/css/820.20dd7507.chunk.css",
-    "static/js/820.5bffd369.chunk.js": "/finance-counter/static/js/820.5bffd369.chunk.js",
+    "static/js/820.86665dc9.chunk.js": "/finance-counter/static/js/820.86665dc9.chunk.js",
     "static/css/383.f248a8e0.chunk.css": "/finance-counter/static/css/383.f248a8e0.chunk.css",
-    "static/js/383.9b565cb4.chunk.js": "/finance-counter/static/js/383.9b565cb4.chunk.js",
+    "static/js/383.26244e9d.chunk.js": "/finance-counter/static/js/383.26244e9d.chunk.js",
     "static/css/602.9ea02ba6.chunk.css": "/finance-counter/static/css/602.9ea02ba6.chunk.css",
-    "static/js/602.f3c2d89c.chunk.js": "/finance-counter/static/js/602.f3c2d89c.chunk.js",
+    "static/js/602.5fba0eab.chunk.js": "/finance-counter/static/js/602.5fba0eab.chunk.js",
     "static/css/437.57568448.chunk.css": "/finance-counter/static/css/437.57568448.chunk.css",
     "static/js/437.89ad9329.chunk.js": "/finance-counter/static/js/437.89ad9329.chunk.js",
-    "static/js/197.613a4748.chunk.js": "/finance-counter/static/js/197.613a4748.chunk.js",
+    "static/js/197.793140cb.chunk.js": "/finance-counter/static/js/197.793140cb.chunk.js",
     "static/css/275.a9b4eb36.chunk.css": "/finance-counter/static/css/275.a9b4eb36.chunk.css",
-    "static/js/275.2e8a327f.chunk.js": "/finance-counter/static/js/275.2e8a327f.chunk.js",
+    "static/js/275.cb202a9c.chunk.js": "/finance-counter/static/js/275.cb202a9c.chunk.js",
     "static/media/sprite.svg": "/finance-counter/static/media/sprite.c9547f3469cf89990739a30a5beed708.svg",
     "static/media/bgBottomDesktop.svg": "/finance-counter/static/media/bgBottomDesktop.7d719bc3ecca6e327582.svg",
     "static/media/bgTopTablet.svg": "/finance-counter/static/media/bgTopTablet.d67fb0c23c0bc6595d41.svg",
@@ -47,21 +47,21 @@
     "static/media/barChart.svg": "/finance-counter/static/media/barChart.f150fc456a482de8328398e0a13922e5.svg",
     "static/media/ArrowToGoBack.svg": "/finance-counter/static/media/ArrowToGoBack.17c466509198738a4cac8f3d82296e85.svg",
     "main.94a8f0b1.css.map": "/finance-counter/static/css/main.94a8f0b1.css.map",
-    "main.0d560de7.js.map": "/finance-counter/static/js/main.0d560de7.js.map",
+    "main.75166838.js.map": "/finance-counter/static/js/main.75166838.js.map",
     "820.20dd7507.chunk.css.map": "/finance-counter/static/css/820.20dd7507.chunk.css.map",
-    "820.5bffd369.chunk.js.map": "/finance-counter/static/js/820.5bffd369.chunk.js.map",
+    "820.86665dc9.chunk.js.map": "/finance-counter/static/js/820.86665dc9.chunk.js.map",
     "383.f248a8e0.chunk.css.map": "/finance-counter/static/css/383.f248a8e0.chunk.css.map",
-    "383.9b565cb4.chunk.js.map": "/finance-counter/static/js/383.9b565cb4.chunk.js.map",
+    "383.26244e9d.chunk.js.map": "/finance-counter/static/js/383.26244e9d.chunk.js.map",
     "602.9ea02ba6.chunk.css.map": "/finance-counter/static/css/602.9ea02ba6.chunk.css.map",
-    "602.f3c2d89c.chunk.js.map": "/finance-counter/static/js/602.f3c2d89c.chunk.js.map",
+    "602.5fba0eab.chunk.js.map": "/finance-counter/static/js/602.5fba0eab.chunk.js.map",
     "437.57568448.chunk.css.map": "/finance-counter/static/css/437.57568448.chunk.css.map",
     "437.89ad9329.chunk.js.map": "/finance-counter/static/js/437.89ad9329.chunk.js.map",
-    "197.613a4748.chunk.js.map": "/finance-counter/static/js/197.613a4748.chunk.js.map",
+    "197.793140cb.chunk.js.map": "/finance-counter/static/js/197.793140cb.chunk.js.map",
     "275.a9b4eb36.chunk.css.map": "/finance-counter/static/css/275.a9b4eb36.chunk.css.map",
-    "275.2e8a327f.chunk.js.map": "/finance-counter/static/js/275.2e8a327f.chunk.js.map"
+    "275.cb202a9c.chunk.js.map": "/finance-counter/static/js/275.cb202a9c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94a8f0b1.css",
-    "static/js/main.0d560de7.js"
+    "static/js/main.75166838.js"
   ]
 }
